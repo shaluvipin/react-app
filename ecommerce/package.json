@@ -2,7 +2,7 @@
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shaluvipin.github.io/react-app/",
+  "homepage": "https://shaluvipin.github.io/react-app/ecommerce",
   "dependencies": {
     "gh-pages": "2.0.1",
     "react": "^16.9.0",
